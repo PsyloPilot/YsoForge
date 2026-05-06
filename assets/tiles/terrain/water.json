@@ -1,0 +1,9 @@
+{
+    "generator": "iso_water",
+    "walkable": false,
+    "params": {
+        "base_color": [40, 90, 180],
+        "wave_strength": 0.25,
+        "highlight": [120, 160, 220]
+    }
+}

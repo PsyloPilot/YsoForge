@@ -1,0 +1,10 @@
+{
+    "generator": "iso_sand",
+    "walkable": true,
+    "params": {
+        "base_color": [210, 190, 120],
+        "grain_strength": 0.15,
+        "shadow_strength": 0.2,
+        "animate": false
+    }
+}

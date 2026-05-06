@@ -1,0 +1,7 @@
+{
+    "generator": "icon_circle",
+    "params": {
+        "color": [255, 255, 255],
+        "radius_factor": 0.33
+    }
+}

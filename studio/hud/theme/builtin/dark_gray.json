@@ -1,0 +1,12 @@
+{
+  "name": "DarkGray",
+  "colors": {
+    "panel_bg": [40, 40, 40],
+    "panel_border": [80, 80, 80],
+    "bar_bg": [30, 30, 30],
+    "bar_border": [70, 70, 70],
+    "text": [230, 230, 230],
+    "hover": [255, 255, 0],
+    "active": [0, 200, 255]
+  }
+}

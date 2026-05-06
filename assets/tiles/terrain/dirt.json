@@ -1,0 +1,13 @@
+{
+    "generator": "iso_dirt",
+    "walkable": true,
+    "params": {
+        "base_color": [110, 80, 50],
+        "clump_strength": 0.25,
+        "crack_strength": 0.15,
+        "shadow_strength": 0.2,
+        "crack_color": [70, 50, 30],
+        "highlight": [140, 110, 70],
+        "animate": false
+    }
+}

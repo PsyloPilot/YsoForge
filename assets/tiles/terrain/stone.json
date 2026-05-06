@@ -1,0 +1,11 @@
+{
+    "generator": "iso_stone",
+    "walkable": false,
+    "params": {
+        "base_color": [120, 120, 120],
+        "noise_strength": 0.35,
+        "crack_color": [40, 40, 40],
+        "highlight": [160, 160, 160],
+        "animate": false
+    }
+}

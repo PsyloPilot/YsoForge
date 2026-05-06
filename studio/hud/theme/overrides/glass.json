@@ -1,0 +1,7 @@
+{
+  "name": "Glass",
+  "panel": {
+    "shadow": true,
+    "corner_radius": 16
+  }
+}

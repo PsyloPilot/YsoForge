@@ -1,0 +1,9 @@
+{
+  "name": "RoundedCorners",
+  "panel": {
+    "corner_radius": 12
+  },
+  "bar": {
+    "corner_radius": 10
+  }
+}

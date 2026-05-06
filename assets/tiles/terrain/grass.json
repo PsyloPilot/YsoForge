@@ -1,0 +1,10 @@
+{
+    "generator": "iso_grass",
+    "walkable": true,
+    "params": {
+        "base_color": [60, 140, 60],
+        "noise_strength": 0.2,
+        "blade_color": [80, 180, 80],
+        "animate": true
+    }
+}

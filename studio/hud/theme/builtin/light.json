@@ -1,0 +1,15 @@
+{
+  "name": "Light",
+  "colors": {
+    "panel_bg": [230, 230, 230],
+    "panel_border": [180, 180, 180],
+    "bar_bg": [240, 240, 240],
+    "bar_border": [200, 200, 200],
+    "text": [20, 20, 20],
+    "hover": [0, 120, 255],
+    "active": [0, 150, 255]
+  },
+  "panel": {
+    "corner_radius": 6
+  }
+}

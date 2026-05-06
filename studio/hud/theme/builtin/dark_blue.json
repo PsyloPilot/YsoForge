@@ -1,0 +1,25 @@
+{
+  "name": "DarkBlue",
+  "colors": {
+    "panel_bg": [30, 35, 50],
+    "panel_border": [70, 80, 110],
+    "bar_bg": [25, 30, 45],
+    "bar_border": [60, 70, 100],
+    "text": [220, 220, 230],
+    "hover": [255, 255, 0],
+    "active": [0, 200, 255]
+  },
+  "panel": {
+    "border_width": 1,
+    "corner_radius": 8,
+    "shadow": true
+  },
+  "bar": {
+    "border_width": 1,
+    "corner_radius": 6
+  },
+  "font": {
+    "family": "consolas",
+    "size": 16
+  }
+}

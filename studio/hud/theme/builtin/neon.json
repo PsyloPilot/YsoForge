@@ -1,0 +1,15 @@
+{
+  "name": "Neon",
+  "colors": {
+    "panel_bg": [10, 10, 10],
+    "panel_border": [0, 255, 200],
+    "bar_bg": [5, 5, 5],
+    "bar_border": [0, 255, 200],
+    "text": [0, 255, 200],
+    "hover": [255, 0, 255],
+    "active": [0, 200, 255]
+  },
+  "panel": {
+    "corner_radius": 12
+  }
+}

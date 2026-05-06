@@ -1,0 +1,13 @@
+{
+  "image": "assets/tileset.png",
+  "tile_width": 128,
+  "tile_height": 64,
+  "tiles": {
+    "grass_01": [0, 0],
+    "grass_02": [1, 0],
+    "dirt_01": [2, 0],
+    "rock_01": [3, 0],
+    "tree_01": [4, 0],
+    "wall": [5, 0]
+  }
+}

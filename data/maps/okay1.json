@@ -1,0 +1,83 @@
+{
+  "width": 20,
+  "height": 20,
+  "layers": [
+    {
+      "name": "Terrain",
+      "tiles": [
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"],
+        ["grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01","grass_01"]
+      ]
+    },
+
+    {
+      "name": "Detail",
+      "tiles": [
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,"tree_01",null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,"rock_01",null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null],
+        [null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]
+      ]
+    },
+
+    {
+      "name": "Collision",
+      "tiles": [
+        ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,"wall"],
+        ["wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall","wall"]
+      ]
+    }
+  ]
+}
